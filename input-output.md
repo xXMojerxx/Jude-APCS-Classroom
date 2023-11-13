@@ -3,6 +3,18 @@ Since in APCS we are creating apps, we are required to have ***INPUT*** and ***O
 ## INPUT :\
 Input are usualy indicated to where a user interacts with an object ***OR*** adds a value into the program via UI (User interface). Some examples of this could include a user interacting with a button or a user inputing their age within the program. Here are a few examples for this:
 ```js
+//FORMAT OF DIFFERNT INPUTS
+
+onEvent("name of item", "type of user interaction", function(){
+  //what runs when the event happens
+});
+
+//OR
+
+variable = getText("UI Element"); // Grabs value from the UI indicated
+```
+```js
+//FUNNY EXAMPLE '-'
 var age = 0; //Creates a blank variable, to where a user can add values to it
 
 //User interacting with something
@@ -16,6 +28,16 @@ age = getText("ageBox"); //Grabs the age from the user when they input into "age
 ## OUTPUT :|
 An output, on the other hand, sends information to the user instad of receiving an input. When creating an output, we usualy need a UI(User interface) to send this information to the user. Just like inputs, there are multiple ways to send information to the user. Adding onto the program above, here are some exaples of output:
 ```js
+//FORMAT OF DIFFERNT OUTPUTS
+
+console.log(variable); //Sends the value of the variable to the console log
+
+//OR
+
+setText("UI Element", variable) //Sets the value of the value to the UI element
+```
+```js
+//FUNNY EXAMPLE '-'
 var age = 0;
 
 //User interacting with something

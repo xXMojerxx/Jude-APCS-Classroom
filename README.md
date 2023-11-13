@@ -4,7 +4,7 @@ There are multiple things that goes into programming in APCS (basically javascri
 - Variable .(:D ).
 - Input/Output .(._. ).
 - If/else statement .(owo ).
-- For/while statements .(x-x ).
+- Loops .(x-x ).
 - Lists .(0-0 ).
 - Functions .(;-; ).
 

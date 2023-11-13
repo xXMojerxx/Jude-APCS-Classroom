@@ -1,7 +1,10 @@
 # IF/ELSE STATEMETNS :]
+> SORRY IF THERE IS ALOT OF INFORMATION (TRYING TO GET YOU GUYS TO UNDERSTAND :P)
+
 This is the core of creating an ap in the first place. Other than variables, these are important for the user to create decisions, interaction, and include more information within your app.
 
 If/else statements indicate what happends when a user interacts with someting or when your app checks for something, using a true or false checker. When the vlaue is ***TRUE*** within the statement, it will run the statement. But when the function is ***FALSE***, it will continue on to the next line of code or the next statement presented.
+
 To give a better example, I am going to give two differt programs, one for an if-statement and another one for an if/else-statement:
 ## IF-STATEMENT
 ```js
@@ -46,7 +49,7 @@ if (carBrand == "Mercades"){ //Chekcs if the variable's value is "Mercades"
 
 console.log("ggs"); //runs this line of code when all of the statements are FALSE
 ```
-
+The basis of these statements is to chekc if a function or certain parameter is either true or false, and run accordingly. If statements as well as if/else statements are going to be used throughout your final app, small apps created within APCS, programs shown within the AP exam, and when writing our programs for written test. SO GET COMFORTABLE WITH THEM :) [they are not that hard i belive...]
 ### TESTING TIME :nerd-emoji:
 
 1) What are if/else statements?

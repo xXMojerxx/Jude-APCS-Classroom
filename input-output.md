@@ -1,4 +1,6 @@
 # INPUT AND OUTPUT 0_0
+> SORRY IF THERE IS ALOT OF INFORMATION (TRYING TO GET YOU GUYS TO UNDERSTAND :P)
+
 Since in APCS we are creating apps, we are required to have ***INPUT*** and ***OUTPUT*** functions! It gets very confusing at first, but lets go over the basics. For these current examples, we are going to create these mini programs in code.org, so please test them out and mess around with them!!! (helps you learn better!). To first indicate what an input and output could consist of:
 ## INPUT :\
 Input are usualy indicated to where a user interacts with an object ***OR*** adds a value into the program via UI (User interface). Some examples of this could include a user interacting with a button or a user inputing their age within the program. Here are a few examples for this:

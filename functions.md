@@ -20,7 +20,7 @@ Parameters, in a sense, are just variables that can ***ONLY BE USING WITHIN THE 
 //FORMATING YIKERS
 function functionName (parameter) {//calls a function with a parameter
   parameter = value; //uses this parameter ro add values to it depending on what its asking
-  return parameter; //HAVE TO USE RETURN TO HMAKE THE PARAMETER WORK!!!!!
+  return parameter; //HAVE TO USE RETURN TO MAKE THE PARAMETER WORK!!!!!
 }
 ```
 ```js

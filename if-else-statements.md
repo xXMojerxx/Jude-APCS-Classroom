@@ -13,7 +13,7 @@ if (carBrand == "Toyota"){ //Checks the variable to see if the value is equal to
 
 console.log("uh oh..."); // Runs this line of code if the statement is FALSE
 ```
-## IF/ELSE-STATEMENT
+## IF/ELSE STATEMENT
 ```js
 var carBrand = "Toyota";
 
@@ -29,3 +29,11 @@ if (carBrand == "Mercades"){ //Chekcs if the variable's value is "Mercades"
 
 console.log("ggs"); //runs this line of code when all of the statements are FALSE
 ```
+
+### TESTING TIME :nerd-emoji:
+
+1) What are if/else statements?
+
+2) How do if statements work and what do they check for?
+
+3) Using the if/else statement example, what would be the outcome of the program?

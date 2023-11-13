@@ -24,7 +24,7 @@ As we can see, the first variable is assigned to "name", which is a string value
 ***QUICK THING TO NOTE:*** String values will always have "quotation marks" around the value, while numberical values do not need them. <-- Only use numbers (durh)
 
 
-### TESTING TIME :nerd-emoji:
+### TESTING TIME .(⬜-⬜ ).
 1) What values are added to both of the variables?
 
 2) What is the outcome of the program?

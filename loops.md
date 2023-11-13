@@ -1,4 +1,4 @@
-# LOOPS :3
+# LOOPS .(x-x ).
 > SORRY IF THERE IS ALOT OF INFORMATION (TRYING TO GET YOU GUYS TO UNDERSTAND :P)
 
 Here we have loops, one of the more confusing parts to programming. Just as the name indicates, a loop is a function in which a program is itterated ***IN A LOOP*** multiple times, unless indicated to stop. 

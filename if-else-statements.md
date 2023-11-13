@@ -1,4 +1,4 @@
-# IF/ELSE STATEMETNS :]
+# IF/ELSE STATEMETNS .(owo ).
 > SORRY IF THERE IS ALOT OF INFORMATION (TRYING TO GET YOU GUYS TO UNDERSTAND :P)
 
 This is the core of creating an ap in the first place. Other than variables, these are important for the user to create decisions, interaction, and include more information within your app.

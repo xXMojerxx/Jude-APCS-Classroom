@@ -40,3 +40,9 @@ function averageDiceChecker(average) { //Calls the function and the parameter "a
 }
 ```
 
+### TESTING TIME
+1) What is a function and how you do properly use it?
+
+2) What is the purpose of a parameter?
+
+3) How do you make a parameter work?

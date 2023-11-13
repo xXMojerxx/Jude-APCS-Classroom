@@ -23,7 +23,7 @@ As we can see, the first variable is assigned to "name", which is a string value
 
 
 ### TESTING TIME :nerd-emoji:
-1) Can you tell me what is added to both variables?
+1) What values are added to both of the variables?
 
 2) What is the outcome of the program?
 

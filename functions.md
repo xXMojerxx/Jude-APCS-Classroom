@@ -13,4 +13,30 @@ function peopleInACafeteria () { //Calls the function under "peopleINACafeteria
   console.log(cafeteria.length); //runs whatever the function states to do.
 }
 ```
-...but there are multiple ways 
+...but there are multiple ways to use a function! To break your mood, this is the most simplistic way of using a function. In which we are going to move onto parameters (this is where it gets very confusing). 
+
+Parameters, in a sense, are just variables that can ***ONLY BE USING WITHIN THE FUNCTION***. These parameters help indicate what values you are trying to check without repeating the same code over and over. Let me give a small demonstration as to how parameters work:
+```js
+//FORMATING YIKERS
+function functionName (parameter) {//calls a function with a parameter
+  parameter = value; //uses this parameter ro add values to it depending on what its asking
+  return parameter; //HAVE TO USE RETURN TO HMAKE THE PARAMETER WORK!!!!!
+}
+```
+```js
+//FULL EXAMPLE (something that used :3)
+function averageDiceChecker(average) { //Calls the function and the parameter "average"
+  var total = 0;
+  for (var i = 0; i < diceList.length; i++) {
+    total = total + diceList[i];
+  }
+  average = total / diceList.length; //parameter is used to get the average of the dice's rolled
+  if (average >= 4.3) {
+    setText("averageRollText", "HIGH ROLL = " + average); 
+  } else {
+    setNumber("averageRollText", average);
+  }
+  return average; //returns the value of "average", and adds it to where the function is called
+}
+```
+

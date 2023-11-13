@@ -4,8 +4,8 @@
 Here we have loops, one of the more confusing parts to programming. Just as the name indicates, a loop is a function in which a program is itterated ***IN A LOOP*** multiple times, unless indicated to stop. 
 
 Loops help itterate through a list, going though each and every individual value. Before using loops, you first have to understand how a lsit works (but we are going to go over that later on) There are two main loop functions:
-### WHILE-LOOP
-### FOR-LOOP
+### - WHILE-LOOP
+### - FOR-LOOP
 ... But in terms of what you SHOULD be coding with, ***FOR LOOPS*** are going to be the generic type of loop you should be using. But lets go over both of them.
 
 ## WHILE LOOP

@@ -6,7 +6,7 @@ There are multiple things that goes into programming in APCS (basically javascri
 - If/else statement .(owo ).
 - Loops .(x-x ).
 - Lists .(0-0 ).
-- Functions .(;-; ).
+- Functions .(>-< ).
 
 
 ```

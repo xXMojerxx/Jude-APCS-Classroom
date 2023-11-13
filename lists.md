@@ -67,7 +67,7 @@ for(var i = 0; i < mathTest.length - 1; i++){
   appendItem(newMathTest, division);
 }
 ```
-### TESTING :nerd-emoji:
+### TESTING TIME .(⬜-⬜ ).
 
 1) How can you add values to a list?
 

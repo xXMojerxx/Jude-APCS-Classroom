@@ -1,4 +1,4 @@
-# IF/ELSE STATEMETNS
+# IF/ELSE STATEMETNS :]
 This is the core of creating an ap in the first place. Other than variables, these are important for the user to create decisions, interaction, and include more information within your app.
 
 If/else statements indicate what happends when a user interacts with someting or when your app checks for something, using a true or false checker. When the vlaue is ***TRUE*** within the statement, it will run the statement. But when the function is ***FALSE***, it will continue on to the next line of code or the next statement presented.

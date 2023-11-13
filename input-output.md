@@ -57,7 +57,7 @@ console.log(age); //Sends the age to the console log in which the user can view 
 setText("ageBar", age); //Finds the element "ageBar" and assigns the current age to it
 ```
 
-### TESTING TIME .(⬜-⬜ ).
+### TESTING TIME
 
 1) What is an input and what is a output?
 

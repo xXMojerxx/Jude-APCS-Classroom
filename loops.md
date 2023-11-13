@@ -50,7 +50,7 @@ for (var i = 0; i < classroom.length; i++;){ //Goes through the loop based on pe
   console.log(classroom[i] + "went to the empty classroom!"; //states who goes to the empty classroom
 }
 ```
-### TESTING .(⬜-⬜ ).
+### TESTING TIME .(⬜-⬜ ).
 
 1) What is a loop?
 

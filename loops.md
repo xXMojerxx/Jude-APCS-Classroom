@@ -21,6 +21,7 @@ while (condition){
 ```
 ```js
 //FULL EXAMPLE :3
+
 var classroom = ["Aidan", "Jules", "Samantha", "Dan", "Johnathan", "Jose", "Sergio"];
 var emptyClassroom = []; //This is an empty list
 var people = 7
@@ -42,6 +43,7 @@ for (var "variable name" = value assigned; CONDITION ; opperator (EX: i = i + 1 
 ```
 ```js
 //FULL EXAMPLE :3
+
 var classroom = ["Aidan", "Jules", "Samantha", "Dan", "Johnathan", "Jose", "Sergio"];
 var emptyClassroom = []; //This is an empty list
 

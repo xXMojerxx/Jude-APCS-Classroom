@@ -16,6 +16,7 @@ if (condition){
 ```
 ```js
 //ACTUAL EXAMPLE
+
 var carBrand = "Toyota"; //Always have a variable!!!!
 
 if (carBrand == "Toyota"){ //Checks the variable to see if the value is equal to "Toyota"
@@ -27,6 +28,7 @@ console.log("uh oh..."); // Runs this line of code if the statement is FALSE
 ## IF/ELSE STATEMENT
 ```js
 //FORMAT OF AN IF/ELSE STATEMENT
+
 if (condition1) {
   //run these lines of code IF condition1 = true;
 } else if (condtion2) {
@@ -35,6 +37,7 @@ if (condition1) {
 ```
 ```js
 //ACTUAL EXAMPLE
+
 var carBrand = "Toyota";
 
 if (carBrand == "Mercades"){ //Chekcs if the variable's value is "Mercades"

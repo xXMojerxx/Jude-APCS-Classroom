@@ -18,6 +18,7 @@ function peopleInACafeteria () { //Calls the function under "peopleINACafeteria
 Parameters, in a sense, are just variables that can ***ONLY BE USING WITHIN THE FUNCTION***. These parameters help indicate what values you are trying to check without repeating the same code over and over. Let me give a small demonstration as to how parameters work:
 ```js
 //FORMATING YIKERS
+
 function functionName (parameter) {//calls a function with a parameter
   parameter = value; //uses this parameter ro add values to it depending on what its asking
   return parameter; //HAVE TO USE RETURN TO MAKE THE PARAMETER WORK!!!!!
@@ -25,6 +26,7 @@ function functionName (parameter) {//calls a function with a parameter
 ```
 ```js
 //FULL EXAMPLE (something that used :3)
+
 function averageDiceChecker(average) { //Calls the function and the parameter "average"
   var total = 0;
   for (var i = 0; i < diceList.length; i++) {
@@ -38,7 +40,32 @@ function averageDiceChecker(average) { //Calls the function and the parameter "a
   }
   return average; //returns the value of "average", and adds it to where the function is called
 }
+
+function();
 ```
+As we can see within a program that I have made, we call the parameter ***WITHIN*** the function, indicated by average. By doing this, every time when we call the function we are using this temporary variable as a one time use. But to apply it to our programs, we have to use the **RETURN** feature. Return (in this case) returns the value of the parameter to the function created. To demonstrate...
+```js
+//SMALL DEMONSTRATION
+
+function addition(number1, number2, total){
+  total = number1 + number2; //adds number1 and number2 together
+  return total; //returns the value of total to the function
+}
+
+console.log(addition(1,2);
+
+//SAME THING AS...
+
+function adition(1, 2, total){
+  total = 1 + 2; <- 3
+  return total ; // total is now equal to 3
+}
+console.log(total); // outputs 3 :)
+
+```
+When running this program, we get the outcome of 3 since we are adding 1 and 2 together. As we can see, when calling functions, we can also assign values to parameters! Shown above, I added 1 and 2 to both number1 and number 2. After that, the program runs the code with these values, which brings the output represented as "total".
+
+Its going to get confusing, I know. I didnt fully understand how functions as well as parameters work in the first place. But you guys got this! You guys got good programers in you class as well as around you, so just ask around if you need help. 
 
 ### TESTING TIME
 1) What is a function and how you do properly use it?

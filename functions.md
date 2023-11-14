@@ -25,7 +25,7 @@ function functionName (parameter) {//calls a function with a parameter
 }
 ```
 ```js
-//FULL EXAMPLE (something that used :3)
+//FULL EXAMPLE (something that I used :3)
 
 function averageDiceChecker(average) { //Calls the function and the parameter "average"
   var total = 0;

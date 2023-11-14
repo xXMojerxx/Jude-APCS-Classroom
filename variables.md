@@ -1,7 +1,7 @@
 # VARIABLES .(-_- ).
 > SORRY IF THERE IS ALOT OF INFORMATION (TRYING TO GET YOU GUYS TO UNDERSTAND :P)
 
-There are many things that happen when programming, but the first thing that you learn would be **VARIABLES** Variables are the key comonents when adding certain events or creating a program in the first place. When programming, we first learn that are different ways to create and use a variable:
+There are many things that happen when programming, but the first thing that you learn would be ***VARIABLES***. Variables are the key comonents when adding certain events or creating a program in the first place. When programming, we first learn that are different ways to create and use a variable:
 ```js
 var string = "string"; //This is a string value. Using text within your app/program
 

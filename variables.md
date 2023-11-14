@@ -23,6 +23,27 @@ As we can see, the first variable is assigned to "name", which is a string value
 
 ***QUICK THING TO NOTE:*** String values will always have "quotation marks" around the value, while numberical values do not need them. <-- Only use numbers (durh)
 
+## ALONG SIDE VARIABLES... WE HAVE OPPERATORS!
+
+Opperators are what is used to compare different things to one another. We have different opperators such as:
+
+### COMPASIRON OPPERATOR
+
+Comparison opperators compare two different values together. Usualy are used within if statements or loops to check if certain values are equal to one another or if one value is greater than another. For examples:
+```js
+var number1 = 2
+var number2 = 3
+var number3 = 2
+
+if (number1 ==  number3){console.log("noice")} //Equal comparison opperator
+if (number2 > number3){console.log("noice")} //Greater Than comparison opperator
+if (number3 <= number3{console.log("noice")} //Less Than Or Equal To comparison opperator
+```
+
+### NUMERICAL OPPERATORS
+
+### ASSIGNMENT OPPERATORS
+
 
 ### TESTING TIME 
 1) What values are added to both of the variables?

@@ -8,6 +8,8 @@ There are multiple things that goes into programming in APCS (basically javascri
 - Lists .(0-0 ).
 - Functions .(>-< ).
 
+btw there are 3 question "tests" at the end of each topic, so get familiar with what they are trying to say.
+
 
 ```
                                                                .---------------------------------

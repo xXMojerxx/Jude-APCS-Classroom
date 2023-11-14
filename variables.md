@@ -57,6 +57,6 @@ Its just a variable.... Yeah just assigns a value to a variable, which is a assi
 ### TESTING TIME 
 1) What values are added to both of the variables?
 
-2) What is the outcome of the program?
+2) What can be changed to fit another person, for example "Jude Pulanco" and age 18?
 
-3) What can be changed to fit another person, for example "Jude Pulanco" and age 18?
+3) What are the different types of opperators and how do they work?

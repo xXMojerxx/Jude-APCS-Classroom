@@ -17,6 +17,7 @@ variable = getText("UI Element"); // Grabs value from the UI indicated
 ```
 ```js
 //FUNNY EXAMPLE '-'
+
 var age = 0; //Creates a blank variable, to where a user can add values to it
 
 //User interacting with something
@@ -40,6 +41,7 @@ setText("UI Element", variable) //Sets the value of the value to the UI element
 ```
 ```js
 //FUNNY EXAMPLE '-'
+
 var age = 0;
 
 //User interacting with something
@@ -56,6 +58,7 @@ console.log(age); //Sends the age to the console log in which the user can view 
 //Output to user VIA UI
 setText("ageBar", age); //Finds the element "ageBar" and assigns the current age to it
 ```
+Input and output are an important step for making an interactive app. If we dont have interaction features within our app, its just an image :/. But this just touches the surface of what you can accomplish with input and outputs, so prepare yourself for the worse...
 
 ### TESTING TIME
 

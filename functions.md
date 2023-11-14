@@ -9,7 +9,7 @@ var cafeteria = ["person1", "person2", "person3", "person4", "person5"]; //im be
 
 peopleInACafeteria(); //Runs the function given
 
-function peopleInACafeteria () { //Calls the function under "peopleINACafeteria
+function peopleInACafeteria () { //Calls the function under "peopleInACafeteria"
   console.log(cafeteria.length); //runs whatever the function states to do.
 }
 ```

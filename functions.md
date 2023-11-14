@@ -52,7 +52,7 @@ function addition(number1, number2, total){
   return total; //returns the value of total to the function
 }
 
-console.log(addition(1,2);
+console.log(addition(1,2));
 
 //SAME THING AS...
 

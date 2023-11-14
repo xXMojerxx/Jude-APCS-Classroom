@@ -48,11 +48,11 @@ var question1 = 1 + 2; //Adding two values and assigns it to variable "question1
 var question2 = 20 - 6; //Subtracting two values and assigns it to variable "question2"
 var question3 = 4 / 2; //Dividing two values and assigns it to variable "question3"
 var question4 = 8 * 5; //Multiplying two values and assigns it to variable "question4"
-var question5 = 5 % 2; //Uses MOD, divids the values, uses the remainder and assigns to variable "question5"
+var question5 = 5 % 2; //Uses MOD, divids and uses the remainder and assigns to variable "question5"
 ```
 
 ### ASSIGNMENT OPPERATORS
-
+Its just a variable.... Yeah just assigns a value to a variable, which is a assignment opperator. 
 
 ### TESTING TIME 
 1) What values are added to both of the variables?

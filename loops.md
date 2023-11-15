@@ -1,7 +1,7 @@
 # LOOPS .(x-x ).
 > SORRY IF THERE IS ALOT OF INFORMATION (TRYING TO GET YOU GUYS TO UNDERSTAND :P)
 
-Here we have loops, one of the more confusing parts to programming. Just as the name indicates, a loop is a function in which a program is itterated ***IN A LOOP*** multiple times, unless indicated to stop. 
+Here we have loops, one of the more confusing parts to programing. Just as the name indicates, a loop is a function in which a program is itterated ***IN A LOOP*** multiple times, unless indicated to stop. 
 
 Loops help itterate through a list, going though each and every individual value. Before using loops, you first have to understand how a lsit works (but we are going to go over that later on) There are two main loop functions:
 ### - WHILE-LOOP
@@ -52,6 +52,8 @@ for (var i = 0; i < classroom.length; i++;){ //Goes through the loop based on pe
   console.log(classroom[i] + "went to the empty classroom!"; //states who goes to the empty classroom
 }
 ```
+Loops are very useful is all I can say. There are ways to use them effectively, but loops are commonly used for lists. AS we can see from both of the examples, we take a list and used a loop to go through every single value within the list. 
+Look out for lists within the APCS test as well. Although they do not format it as I do, you still need to analyse how loops work. Test around with them to get the general gist of how it works, and the AP exam will be a breeze.
 ### TESTING TIME
 
 1) What is a loop?

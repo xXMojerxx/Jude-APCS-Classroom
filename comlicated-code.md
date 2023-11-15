@@ -54,6 +54,6 @@ Everythig is going to look fairly easy right now, but as you start to use it as 
 
 1) What does ***.forEach*** do?
 
-2) What interval does timedLoop count for?
+2) What interval does ***timedLoop*** count for?
 
 3) Why is using these function confusing?

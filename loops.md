@@ -26,7 +26,7 @@ var classroom = ["Aidan", "Jules", "Samantha", "Dan", "Johnathan", "Jose", "Serg
 var emptyClassroom = []; //This is an empty list
 var people = 7
 
-while (people = 7){ //Checks if the variable "people" still contains the number 7
+while (people == 7){ //Checks if the variable "people" still contains the number 7
   appendItem(emptyClassroom, classroom); //"sends" the people to the empty classroom
 }
 ```

@@ -53,6 +53,7 @@ for (var i = 0; i < classroom.length; i++;){ //Goes through the loop based on pe
 }
 ```
 Loops are very useful is all I can say. There are ways to use them effectively, but loops are commonly used for lists. AS we can see from both of the examples, we take a list and used a loop to go through every single value within the list. 
+
 Look out for lists within the APCS test as well. Although they do not format it as I do, you still need to analyse how loops work. Test around with them to get the general gist of how it works, and the AP exam will be a breeze.
 ### TESTING TIME
 

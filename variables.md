@@ -35,9 +35,15 @@ var number1 = 2
 var number2 = 3
 var number3 = 2
 
-if (number1 ==  number3){console.log("noice")} //Equal comparison opperator
-if (number2 > number3){console.log("noice")} //Greater Than comparison opperator
-if (number3 <= number3{console.log("noice")} //Less Than Or Equal To comparison opperator
+if (number1 ==  number3){
+  console.log("noice") //Equal comparison opperator
+} 
+if (number2 > number3){
+  console.log("noice") //Greater Than comparison opperator
+} 
+if (number3 <= number3){
+  console.log("noice") //Less Than Or Equal To comparison opperator
+}
 ```
 
 ### NUMERICAL OPPERATORS

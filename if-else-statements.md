@@ -5,7 +5,7 @@ This is the core of creating an ap in the first place. Other than variables, the
 
 If/else statements indicate what happends when a user interacts with someting or when your app checks for something, using a true or false checker. When the vlaue is ***TRUE*** within the statement, it will run the statement. But when the function is ***FALSE***, it will continue on to the next line of code or the next statement presented.
 
-To give a better example, I am going to give two differt programs, one for an if-statement and another one for an if/else-statement:
+To give a better example, I am going to give two different programs, one for an if-statement and another one for an if/else-statement:
 ## IF-STATEMENT
 ```js
 //FORMAT OF AN IF STATEMENT

@@ -17,10 +17,10 @@ console.log(addition(1));
 ```
 What would be the outcome of the function?
 
-A) 35, 25, 1
+A) (35, 25, 1)
 
-B) 25, 1, 35
+B) (25, 1, 35)
 
-C) 1, 25, 35
+C) (1, 25, 35)
 
-D) 35, 25, 16
+D) (35, 25, 16)

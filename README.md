@@ -8,6 +8,7 @@ There are multiple things that goes into programming in APCS (basically javascri
 - Input/Output .(._. ).
 - Lists .(0-0 ).
 - Loops .(x-x ).
+- Mock Exam .('o' ).
 - Variables (and opperators) .(-_- ).
 - (will add more, maybe...)
 btw there are 3 question "tests" at the end of each topic, so get familiar with what they are trying to say.

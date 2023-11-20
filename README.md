@@ -11,6 +11,7 @@ There are multiple things that goes into programming in APCS (basically javascri
 - Loops .(x-x ).
 - Variables (and opperators) .(-_- ).
 - (will add more, maybe...)
+  
 (btw there are 3 question "tests" at the end of each topic, so get familiar with what they are trying to say.)
 
 There is also a small 5 question (so far) mock exam ***THAT IS NOT REAL*** that you can use just to touch up on certain things. But please take those questions with a grain of salt.

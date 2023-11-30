@@ -20,7 +20,7 @@ lifOfElements.forEach(function(element){ //grabs the values within the list, usi
 ```
 Looks confusing at first? Well, we can see that we added a new dot function -> .forEach!!!. .forEach checks every value within the list and creates a function based of off it. This is where we get into the semi-complicated zone. 
 
-Since we can use .forEach now, we can also aply this to elements we have created! Going based pff the program above, we can see that I have made 3 elements, an image, a text, and a number. Using these elements, we can check ***FOR EACH*** elements and apply it to the on event function. Think of it as a way to replace the parameter with whatever element you are trinyg to use. 
+Since we can use .forEach now, we can also aply this to elements we have created! Going based off the program above, we can see that I have made 3 elements, an image, a text, and a number. Using these elements, we can check ***FOR EACH*** elements and apply it to the on event function. Think of it as a way to replace the parameter with whatever element you are trinyg to use. 
 
 So, if i were to have 3 elements presented, I am running the function the amount of elements I have. If i were to click on the image element, we can replace the element parameter with image instead. Same thing goes for the text and the number
 

@@ -59,6 +59,7 @@ console.log(age); //Sends the age to the console log in which the user can view 
 setText("ageBar", age); //Finds the element "ageBar" and assigns the current age to it
 ```
 We can use these inputs and outputs to create certain apps. For example, the decision apps that you guys have previously created as well as the list apps that you have created. It doesnt matter whether or not a user interacts with a button or inputs sopmeting into the app, an app is suppose to create an interaction witht eh user and the creater, giving out information that will benefit the user.
+
 Input and output are an important step for making an interactive app. If we dont have interaction features within our app, its just an image :/. But this just touches the surface of what you can accomplish with input and outputs, so prepare yourself for the worse...
 
 ### TESTING TIME

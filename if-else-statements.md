@@ -48,9 +48,9 @@ if (carBrand == "Mercades"){ //Chekcs if the variable's value is "Mercades"
   console.log("erm...");
 } else if (carBrand == "Toyota"); //Chekcs if the variable's value is "Toyota" IF statement above FALSE
   console.log("WE GOT THERE!!!!");
+} else {
+  console.log("ggs"); //runs this line of code when all of the statements are FALSE
 }
-
-console.log("ggs"); //runs this line of code when all of the statements are FALSE
 ```
 The basis of these statements is to check if a function or certain parameter is either true or false, and run accordingly. If statements as well as if/else statements are going to be used throughout your final app, small apps created within APCS, programs shown within the AP exam, and when writing our programs for written test. ***SO GET COMFORTABLE WITH THEM*** :) [they are not that hard i belive...]
 ### TESTING TIME

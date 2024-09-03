@@ -21,9 +21,9 @@ var carBrand = "Toyota"; //Always have a variable!!!!
 
 if (carBrand == "Toyota"){ //Checks the variable to see if the value is equal to "Toyota"
   console.log("YIPPIEE!!!");
+} else {
+ console.log("uh oh..."); // Runs this line of code if the statement is FALSE
 }
-
-console.log("uh oh..."); // Runs this line of code if the statement is FALSE
 ```
 ## IF/ELSE STATEMENT
 ```js
